@@ -1,1 +1,1 @@
-# a mock portfolio
+# a mock portfolio from udemy course
